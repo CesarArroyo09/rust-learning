@@ -1,2 +1,2 @@
 [workspace]
-members = ["01_variables"]
+members = ["01_variables", "03_conditionals", "04_shadowing"]

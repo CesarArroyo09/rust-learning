@@ -1,8 +1,9 @@
 {
     "rust-analyzer.linkedProjects": [
+        "04_shadowing/Cargo.toml",
+        "03_conditionals/Cargo.toml",
         "01_variables/Cargo.toml",
     ],
-    "rust-analyzer.checkOnSave.command": "clippy",
     "editor.formatOnSave": true,
     "[rust]": {
         "editor.defaultFormatter": "rust-lang.rust-analyzer"
