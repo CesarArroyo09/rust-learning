@@ -7,6 +7,10 @@ name = "conditionals"
 version = "0.1.0"
 
 [[package]]
+name = "loops"
+version = "0.1.0"
+
+[[package]]
 name = "shadowing"
 version = "0.1.0"
 

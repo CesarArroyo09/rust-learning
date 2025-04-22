@@ -1,5 +1,6 @@
 {
     "rust-analyzer.linkedProjects": [
+        "05_loops/Cargo.toml",
         "04_shadowing/Cargo.toml",
         "03_conditionals/Cargo.toml",
         "01_variables/Cargo.toml",
