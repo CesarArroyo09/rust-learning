@@ -1,5 +1,7 @@
 {
     "rust-analyzer.linkedProjects": [
+        "07_while_loops/Cargo.toml",
+        "06_conditionals2/Cargo.toml",
         "05_loops/Cargo.toml",
         "04_shadowing/Cargo.toml",
         "03_conditionals/Cargo.toml",

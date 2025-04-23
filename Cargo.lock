@@ -7,6 +7,10 @@ name = "conditionals"
 version = "0.1.0"
 
 [[package]]
+name = "conditionals2"
+version = "0.1.0"
+
+[[package]]
 name = "loops"
 version = "0.1.0"
 
@@ -16,4 +20,8 @@ version = "0.1.0"
 
 [[package]]
 name = "variables"
+version = "0.1.0"
+
+[[package]]
+name = "while_loops"
 version = "0.1.0"
