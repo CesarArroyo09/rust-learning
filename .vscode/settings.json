@@ -1,5 +1,10 @@
 {
     "rust-analyzer.linkedProjects": [
+        "12_return_values/Cargo.toml",
+        "11_unit_functions/Cargo.toml",
+        "10_match_control_flow/Cargo.toml",
+        "09_break_and_continue/Cargo.toml",
+        "08_for_loops/Cargo.toml",
         "07_while_loops/Cargo.toml",
         "06_conditionals2/Cargo.toml",
         "05_loops/Cargo.toml",

@@ -1,2 +1,2 @@
 [workspace]
-members = ["01_variables", "03_conditionals", "04_shadowing", "05_loops", "06_conditionals2", "07_while_loops"]
+members = ["01_variables", "03_conditionals", "04_shadowing", "05_loops", "06_conditionals2", "07_while_loops", "08_for_loops", "09_break_and_continue", "10_match_control_flow", "11_unit_functions", "12_return_values"]

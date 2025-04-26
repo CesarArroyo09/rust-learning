@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "break_and_continue"
+version = "0.1.0"
+
+[[package]]
 name = "conditionals"
 version = "0.1.0"
 
@@ -11,11 +15,27 @@ name = "conditionals2"
 version = "0.1.0"
 
 [[package]]
+name = "for_loops"
+version = "0.1.0"
+
+[[package]]
 name = "loops"
 version = "0.1.0"
 
 [[package]]
+name = "match_control_flow"
+version = "0.1.0"
+
+[[package]]
+name = "return_values"
+version = "0.1.0"
+
+[[package]]
 name = "shadowing"
+version = "0.1.0"
+
+[[package]]
+name = "unit_functions"
 version = "0.1.0"
 
 [[package]]
