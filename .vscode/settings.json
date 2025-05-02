@@ -1,5 +1,7 @@
 {
     "rust-analyzer.linkedProjects": [
+        "19_structs_3/Cargo.toml",
+        "18_structs_2/Cargo.toml",
         "17_defining_structs/Cargo.toml",
         "16_error_handling/Cargo.toml",
         "15_panic_to_stop/Cargo.toml",
@@ -20,5 +22,5 @@
     "editor.formatOnSave": true,
     "[rust]": {
         "editor.defaultFormatter": "rust-lang.rust-analyzer"
-    }
+    },
 }

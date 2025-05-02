@@ -1,2 +1,2 @@
 [workspace]
-members = ["01_variables", "03_conditionals", "04_shadowing", "05_loops", "06_conditionals2", "07_while_loops", "08_for_loops", "09_break_and_continue", "10_match_control_flow", "11_unit_functions", "12_return_values", "13_arguments", "14_borrowing", "15_panic_to_stop", "16_error_handling", "17_defining_structs"]
+members = ["01_variables", "03_conditionals", "04_shadowing", "05_loops", "06_conditionals2", "07_while_loops", "08_for_loops", "09_break_and_continue", "10_match_control_flow", "11_unit_functions", "12_return_values", "13_arguments", "14_borrowing", "15_panic_to_stop", "16_error_handling", "17_defining_structs", "18_structs_2", "19_structs_3"]
