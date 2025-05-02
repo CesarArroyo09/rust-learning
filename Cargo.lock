@@ -3,6 +3,14 @@
 version = 4
 
 [[package]]
+name = "arguments"
+version = "0.1.0"
+
+[[package]]
+name = "borrowing"
+version = "0.1.0"
+
+[[package]]
 name = "break_and_continue"
 version = "0.1.0"
 
@@ -15,6 +23,14 @@ name = "conditionals2"
 version = "0.1.0"
 
 [[package]]
+name = "defining_structs"
+version = "0.1.0"
+
+[[package]]
+name = "error_handling"
+version = "0.1.0"
+
+[[package]]
 name = "for_loops"
 version = "0.1.0"
 
@@ -24,6 +40,10 @@ version = "0.1.0"
 
 [[package]]
 name = "match_control_flow"
+version = "0.1.0"
+
+[[package]]
+name = "panic_to_stop"
 version = "0.1.0"
 
 [[package]]

@@ -1,5 +1,10 @@
 {
     "rust-analyzer.linkedProjects": [
+        "17_defining_structs/Cargo.toml",
+        "16_error_handling/Cargo.toml",
+        "15_panic_to_stop/Cargo.toml",
+        "14_borrowing/Cargo.toml",
+        "13_arguments/Cargo.toml",
         "12_return_values/Cargo.toml",
         "11_unit_functions/Cargo.toml",
         "10_match_control_flow/Cargo.toml",
