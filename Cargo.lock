@@ -55,6 +55,14 @@ name = "shadowing"
 version = "0.1.0"
 
 [[package]]
+name = "strings_1"
+version = "0.1.0"
+
+[[package]]
+name = "strings_2_manipulation"
+version = "0.1.0"
+
+[[package]]
 name = "structs_2"
 version = "0.1.0"
 
@@ -68,6 +76,10 @@ version = "0.1.0"
 
 [[package]]
 name = "variables"
+version = "0.1.0"
+
+[[package]]
+name = "vectors_1"
 version = "0.1.0"
 
 [[package]]

@@ -1,5 +1,8 @@
 {
     "rust-analyzer.linkedProjects": [
+        "22_vectors_1/Cargo.toml",
+        "21_strings_2_manipulation/Cargo.toml",
+        "20_strings_1/Cargo.toml",
         "19_structs_3/Cargo.toml",
         "18_structs_2/Cargo.toml",
         "17_defining_structs/Cargo.toml",
