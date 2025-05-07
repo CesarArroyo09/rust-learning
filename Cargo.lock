@@ -27,6 +27,10 @@ name = "defining_structs"
 version = "0.1.0"
 
 [[package]]
+name = "enums_1_introduction"
+version = "0.1.0"
+
+[[package]]
 name = "error_handling"
 version = "0.1.0"
 
@@ -80,6 +84,14 @@ version = "0.1.0"
 
 [[package]]
 name = "vectors_1"
+version = "0.1.0"
+
+[[package]]
+name = "vectors_2_retrieving"
+version = "0.1.0"
+
+[[package]]
+name = "vectors_3_append"
 version = "0.1.0"
 
 [[package]]
