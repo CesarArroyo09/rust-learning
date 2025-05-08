@@ -1,5 +1,8 @@
 {
     "rust-analyzer.linkedProjects": [
+        "28_enums_4_applied_enum/Cargo.toml",
+        "27_enums_3_option_enum/Cargo.toml",
+        "26_enums_2_enums_as_type/Cargo.toml",
         "25_enums_1_introduction/Cargo.toml",
         "24_vectors_3_append/Cargo.toml",
         "23_vectors_2_retrieving/Cargo.toml",
