@@ -1,3 +1,5 @@
+// CAUTION! The logic of the code is wrong because of the double division
+
 enum FileSize {
     Bytes(u64),
     Kilobytes(u64),
