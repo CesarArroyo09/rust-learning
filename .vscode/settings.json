@@ -1,5 +1,6 @@
 {
     "rust-analyzer.linkedProjects": [
+        "32_resplit/Cargo.toml",
         "31_cli_lib/Cargo.toml",
         "30_enums_6_exhaustive_matches/Cargo.toml",
         "29_enums_5_with_vectors/Cargo.toml",

@@ -1,5 +1,12 @@
-# Create a new Rust project and add it to VS Code settings and workspace
-new-project:
+SHELL := /bin/bash
+.PHONY: help
+
+help:
+	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | \
+	awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
+
+
+new-project: ## Create a new Rust project and add it to VS Code settings and workspace
 	@if [ -z "$(folder_name)" ]; then \
 		echo "Usage: make new-project folder_name=<dd_name>"; \
 		echo "Example: make new-project folder_name=02_functions"; \
@@ -35,8 +42,7 @@ new-project:
 	
 	@echo "Project $(folder_name) created and configured successfully"
 
-# Create a new Rust library project and add it to VS Code settings and workspace
-new-project-lib:
+new-project-lib: ## Create a new Rust library project and add it to VS Code settings and workspace
 	@if [ -z "$(folder_name)" ]; then \
 		echo "Usage: make new-project-lib folder_name=<dd_name>"; \
 		echo "Example: make new-project-lib folder_name=02_functions_lib"; \

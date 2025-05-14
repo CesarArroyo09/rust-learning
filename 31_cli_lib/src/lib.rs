@@ -11,6 +11,8 @@
 
 use std::io::{BufRead, BufReader};
 
+pub mod colors;
+
 /// This functions reads a line from stdin and returns it as a String.
 /// It will panic if it fails to read a line with a message "Failed to read input line".
 /// # Examples:
