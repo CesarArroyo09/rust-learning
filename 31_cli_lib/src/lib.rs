@@ -41,16 +41,16 @@ mod tests {
     use std::io::Cursor;
 
     #[test]
-    fn test_read_input() {
+    fn test_read_input_newline() {
         let input = "Hello, world!\n";
         let expected_output = "Hello, world!";
         let mut reader = Cursor::new(input);
         let output = _read_stdin(&mut reader);
-        assert_eq!(output, expected_output);
+        assert_eq!(output, expected_output, "Line should be 'test'");
     }
 
     #[test]
-    fn test_read_input_empty() {
+    fn test_read_input_empty_with_newline() {
         let input = "";
         let expected_output = "";
         let mut reader = Cursor::new(input);
